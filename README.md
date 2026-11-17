@@ -80,13 +80,16 @@ Financial figures are analyzed according to their respective reporting entities 
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Overview](screenshots/Overview.png)
 
-### Financial Performance
-![Financial Performance](screenshots/financial_performance.png)
+### Financial Information (Excluding FY2016-17)
+![Financial Information](screenshots/Financial_Information(excluding FY2016-17).png)
+
+### Financial Information (Including FY2016-17)
+![Financial Information](screenshots/Financial_Information(including FY2016-17).png)
 
 ### Business Insights
-![Business Insights](screenshots/business_insights.png)
+![Business Insights](screenshots/Business_Insights.png)
 
 
 
