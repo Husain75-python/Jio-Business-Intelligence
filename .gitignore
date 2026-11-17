@@ -1,0 +1,19 @@
+# Private database backups
+*.dump
+*.backup
+*.bak
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Private keys
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
