@@ -77,6 +77,16 @@ Data is compiled from publicly available Reliance Jio financial statements, Reli
 
 
 Financial figures are analyzed according to their respective reporting entities and reporting bases. RJIL standalone figures should not be interpreted as Reliance Industries consolidated or segment figures.
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Financial Performance
+![Financial Performance](screenshots/financial_performance.png)
+
+### Business Insights
+![Business Insights](screenshots/business_insights.png)
 
 
 
