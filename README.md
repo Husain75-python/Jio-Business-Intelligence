@@ -83,10 +83,10 @@ Financial figures are analyzed according to their respective reporting entities 
 ![Overview](screenshots/Overview.png)
 
 ### Financial Information (Excluding FY2016-17)
-![Financial Information](screenshots/Financial_Information(excluding FY2016-17).png)
+![Financial Information - Excluding FY2016-17](screenshots/Financial_Information_Excluding_FY2016-17.png)
 
 ### Financial Information (Including FY2016-17)
-![Financial Information](screenshots/Financial_Information(including FY2016-17).png)
+![Financial Information - Including FY2016-17](screenshots/Financial_Information_Including_FY2016-17.png)
 
 ### Business Insights
 ![Business Insights](screenshots/Business_Insights.png)
